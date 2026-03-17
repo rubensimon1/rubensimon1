@@ -15,10 +15,10 @@
 
 ¡Hola! Soy un estudiante de Desarrollo Full-Stack apasionado por la creación de aplicaciones web y móviles. Me encanta transformar ideas en código y aprender constantemente nuevas tecnologías para mejorar la calidad de mis proyectos.
 
-- 🔭 Actualmente trabajando en: Gestorum
-- 🌱 Actualmente aprendiendo: Python
+- 🔭 Actualmente trabajando en: **Gestorum**
+- 🌱 Actualmente aprendiendo: **Python**
 - 💬 Pregúntame sobre: **Backend-Fronend-BBDD**
-- 📫 Cómo contactarme: **[tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)**
+- 📫 Cómo contactarme: **ruben.sireb@gmail.com**
 
 ---
 
