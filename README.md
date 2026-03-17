@@ -57,7 +57,6 @@ No todo es código. Estas son las habilidades transversales que aporto a cualqui
 |----------|-------------|-------------|---------|
 | **ERP LITE FULLSTACK** | Breve descripción de lo que hace tu aplicación web o móvil. Qué problema resuelve. | `React` `Node.js` | [🔗 Repositorio](#) <br> [🌐 Demo en Vivo](#) |
 | **WANDERLUXE-AI** | Aplicación Android para gestionar tareas diarias con notificaciones locales. | `Kotlin` `SQLite` | [🔗 Repositorio](#) |
-| **** | Landing page moderna y responsive para un negocio local. | `HTML` `CSS` `JS` | [🔗 Repositorio](#) <br> [🌐 Demo en Vivo](#) |
 
 ---
 
