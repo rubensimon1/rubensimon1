@@ -64,7 +64,7 @@ No todo es código. Estas son las habilidades transversales que aporto a cualqui
 ### 📈 Mis Estadísticas de GitHub
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubensimon1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rubensimon1&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Rubén" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensimon1&layout=compact&theme=tokyonight"/>
 </p>
 
