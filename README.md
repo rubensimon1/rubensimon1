@@ -36,8 +36,6 @@ Aquí tienes una representación de mi nivel de dominio y confianza actual en la
 > * **Java / Kotlin** &nbsp;`[███████░░░] 70%`
 > * **SQL / MySQL** &nbsp;&nbsp;&nbsp;&nbsp;`[████████░░] 80%`
 
-*(Nota: Puedes copiar y pegar el bloque `█` y `░` para ajustar los porcentajes a tu gusto).*
-
 ---
 
 ### 🧠 Soft Skills
