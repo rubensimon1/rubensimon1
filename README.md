@@ -1,18 +1,3 @@
-¡Esto va tomando una forma espectacular, Rubén! Ya tienes un README muy profesional.
-
-He tomado el código que me has pasado y he hecho los siguientes ajustes para que quede perfecto:
-
-He añadido los enlaces reales a tus repositorios en la tabla de proyectos.
-
-He redactado unas descripciones sugeridas para "ERP LITE FULLSTACK" y "WANDERLUXE-AI" basándome en sus nombres para que suenen muy profesionales. (Si usan otras tecnologías o hacen algo distinto, siéntete libre de modificarlas).
-
-He corregido un pequeño detalle tipográfico ("Fronend" por "Frontend").
-
-He limpiado la etiqueta de la segunda imagen de estadísticas (le he quitado el em a 180em para que quede en 180 igual que la primera y evitar errores visuales).
-
-Aquí tienes el código final listo para copiar y pegar:
-
-Markdown
 <h1 align="center">
   <b>Hi, I'm Rubén Simón</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
