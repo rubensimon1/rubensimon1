@@ -1,3 +1,18 @@
+¡Esto va tomando una forma espectacular, Rubén! Ya tienes un README muy profesional.
+
+He tomado el código que me has pasado y he hecho los siguientes ajustes para que quede perfecto:
+
+He añadido los enlaces reales a tus repositorios en la tabla de proyectos.
+
+He redactado unas descripciones sugeridas para "ERP LITE FULLSTACK" y "WANDERLUXE-AI" basándome en sus nombres para que suenen muy profesionales. (Si usan otras tecnologías o hacen algo distinto, siéntete libre de modificarlas).
+
+He corregido un pequeño detalle tipográfico ("Fronend" por "Frontend").
+
+He limpiado la etiqueta de la segunda imagen de estadísticas (le he quitado el em a 180em para que quede en 180 igual que la primera y evitar errores visuales).
+
+Aquí tienes el código final listo para copiar y pegar:
+
+Markdown
 <h1 align="center">
   <b>Hi, I'm Rubén Simón</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -17,8 +32,8 @@
 
 - 🔭 Actualmente trabajando en: **Gestorum**
 - 🌱 Actualmente aprendiendo: **Python**
-- 💬 Pregúntame sobre: **Backend-Fronend-BBDD**
-- 📫 Cómo contactarme: **ruben.sireb@gmail.com**
+- 💬 Pregúntame sobre: **Backend - Frontend - BBDD**
+- 📫 Cómo contactarme: **[ruben.sireb@gmail.com](mailto:ruben.sireb@gmail.com)**
 
 ---
 
@@ -55,8 +70,8 @@ No todo es código. Estas son las habilidades transversales que aporto a cualqui
 
 | Proyecto | Descripción | Tecnologías | Enlaces |
 |----------|-------------|-------------|---------|
-| **ERP LITE FULLSTACK** | Breve descripción de lo que hace tu aplicación web o móvil. Qué problema resuelve. | `React` `Node.js` | [🔗 Repositorio](#) <br> [🌐 Demo en Vivo](#) |
-| **WANDERLUXE-AI** | Aplicación Android para gestionar tareas diarias con notificaciones locales. | `Kotlin` `SQLite` | [🔗 Repositorio](#) |
+| **ERP LITE FULLSTACK** | Sistema de planificación de recursos empresariales (ERP) simplificado. Diseñado para gestionar procesos internos de manera eficiente e intuitiva. | `React` `Node.js` `BBDD` | [🔗 Repositorio](https://github.com/rubensimon1/erp-lite-fullstack) |
+| **WANDERLUXE-AI** | Aplicación innovadora potenciada por Inteligencia Artificial para la gestión y asistencia inteligente. | `Python` `IA` `Frontend` | [🔗 Repositorio](https://github.com/rubensimon1/wanderluxe-ai) |
 
 ---
 
@@ -64,13 +79,13 @@ No todo es código. Estas son las habilidades transversales que aporto a cualqui
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=rubensimon1&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Rubén" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensimon1&layout=compact&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensimon1&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/tu-perfil">
+  <a href="https://linkedin.com/in/TU_USUARIO_AQUI">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:ruben.sireb@gmail.com">
