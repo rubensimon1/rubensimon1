@@ -27,14 +27,14 @@
 Aquí tienes una representación de mi nivel de dominio y confianza actual en las tecnologías que manejo (0 - 100%):
 
 > **Desarrollo Web**
-> * **HTML5 / CSS3** `[█████████░] 90%`
-> * **JavaScript** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`[████████░░] 80%`
-> * **React / Vue** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`[██████░░░░] 60%`
+> * **HTML5 / CSS3** `[█████████ ] 90%`
+> * **JavaScript** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`[████████  ] 80%`
+> * **React / Vue** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`[██████   ] 60%`
 
 > **Desarrollo Backend & Bases de Datos**
-> * **Node.js** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`[███████░░░] 70%`
-> * **Java / Kotlin** &nbsp;`[███████░░░] 70%`
-> * **SQL / MySQL** &nbsp;&nbsp;&nbsp;&nbsp;`[████████░░] 80%`
+> * **Node.js** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`[███████   ] 70%`
+> * **Java / Kotlin** &nbsp;`[███████   ] 70%`
+> * **SQL / MySQL** &nbsp;&nbsp;&nbsp;&nbsp;`[████████  ] 80%`
 
 ---
 
